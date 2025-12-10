@@ -37,9 +37,9 @@ DATABASES = {
         # "ENGINE": "django.db.backends.postgresql",
         # 'PORT': '5432',
 
-        'NAME': 'crm_db',
-        'USER': 'crm_user',
-        'PASSWORD': 'crmpass',
+        'NAME': 'altilixcrm-database',
+        'USER': 'izoscpaaes',
+        'PASSWORD': 'mfFvcy44WC$7Xz1j',
         'HOST': 'localhost',
     }
 }
